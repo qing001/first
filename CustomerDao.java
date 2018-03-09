@@ -7,3 +7,5 @@ public interface CustomerDao {
 	public void save(Customer customer);
 
 }
+
+第一次修改
